@@ -13,14 +13,33 @@ Gathering more info about nuxt js to build a _wide vision_ and searching about d
 
 _"If you're looking to build **`Azure Static Web Apps`**, then Nuxt.js can help you. Nuxt.js is an `intuitive web framework` based on official **`Vue.js libraries`**, `Node.js`, and **`powerful development tools`**, such as `Webpack`, `Bubble`, and `PostCSS`. **The goal** of Nuxt.js is to make `web development` `intuitive` and `performant` with a great developer experience in mind"._ (microsoft1) (microsoft2)
 
+_"Nuxt.js is a free and open source `JavaScript library` based on `Vue.js`, `Node.js`, `Webpack` and `Babel.js`. Nuxt is inspired by `Next.js`,which is a framework of `similar purpose`, based on `React.js`."_ (Wiki)
+
+_"The framework is advertised as a `Meta-framework for universal applications`. The term universal is used here with the meaning that the goal of the framework is to `enable users to create web views in JavaScript` `utilizing the Vue.js single file component system` and that can function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) "rehydrated" to full SPA functionality.Additionally, the framework enables users to have the `content`, or `parts of it`, fully `pre-rendered on the server` and served in the manner of `static site generators`."_ (Wiki)
+
+_"Nuxt.js provides all the `configuration` needed to make your `Vue.js application development` interesting & It is used to make `Desktop applications`, `Mobile applications`, `Static generated applications`, `Progressive web applications`, and `Universal applications`."_ (Mobiosolutions)
+
+---
+
 ### **Articles**
+[Creating Server-side Rendered Vue.js Apps Using Nuxt.js
+](https://www.toptal.com/vue-js/server-side-rendered-vue-js-using-nuxt-js)
+
+---
+
 
 ### **Courses**
 
+---
+
 ### **Projects**
+
+---
 
 ### **Jobs**
 
+
+---
 
 
 
@@ -40,13 +59,19 @@ _"If you're looking to build **`Azure Static Web Apps`**, then Nuxt.js can help 
 - What're `Requirements` to Start Applying NuxtJs?
 - What's Nuxt Js `Lifecycle`?
 - What's Difference bewteen NuxtJs & `NestJs`?
+- What's Difference bewteen NuxtJs & `NextJs`?
+
 - How much does it `cost` to use nuxtjs?
 -
+
+---
 
 ### **Need Answers?**
 
 - **How much does it `cost` to use nuxtjs?**  
 _"NuxtJS is an `MIT` licensed `open source` project and completely free to use. However, the amount of effort needed to `maintain and develop` new features for the project is `not sustainable` without proper `financial` backing."_
+
+---
 
 ### Says about NuxtJs?
 
@@ -70,9 +95,12 @@ _"Nuxt has an ideal balance of `approachability` for developers new to `JAMstack
 _"The moment I used Nuxt for the first time I felt in love with it. Apart from its `scalability`, `performance` and `developer experience`, the team behind of it is also fantastic. Thanks for developing such a `great framework` and `making our lives much easier!`"_
 
 
+---
+
 
 ### **References**
 
-[mircrosoft1](https://www.youtube.com/watch?v=og_2HLjgD0E)/[microsoft2](https://docs.microsoft.com/en-us/shows/one-dev-minute/what-is-nuxtjs--one-dev-question)/[github](https://github.com/nuxt/nuxt.js)/
+[mircrosoft1](https://www.youtube.com/watch?v=og_2HLjgD0E) [microsoft2](https://docs.microsoft.com/en-us/shows/one-dev-minute/what-is-nuxtjs--one-dev-question) [github](https://github.com/nuxt/nuxt.js) [Nuxtjs docs](https://nuxtjs.org/docs/get-started/installation) [Mobiosolutions](https://mobiosolutions.com/what-is-nuxt-js-a-step-by-step-guide-to-install-nuxt-js-project-in-your-system/) [Wiki](https://en.wikipedia.org/wiki/Nuxt.js)
+
 
 
